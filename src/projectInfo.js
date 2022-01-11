@@ -9,7 +9,7 @@ const projects = [
           'Website is running inside of a nodeJS and express environment',
       ],
       tool: 'React',
-      github: 'here',
+      github: 'https://github.com/55jflores/portfolio',
       picture: 'none'
     },
     {
